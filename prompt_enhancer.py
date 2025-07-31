@@ -4,7 +4,7 @@ from typing import Dict
 
 def setup_page():
     """Configure the Streamlit page with a title and description"""
-    st.title("AI Prompt Enhancer")
+    st.title("AI Prompts Enhancer")
     st.write("Enter your prompt details below to get an enhanced version optimized for AI responses.")
 
 def get_user_inputs() -> Dict[str, str]:

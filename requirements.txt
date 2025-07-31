@@ -1,0 +1,3 @@
+openai
+streamlit
+# add any other dependencies your app needs
